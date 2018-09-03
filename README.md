@@ -1,2 +1,2 @@
 # glove-numpy
-<pre>Original repository is https://github.com/hans/glove.py</pre>
+Original repository is <a href="https://github.com/hans/glove.py">here</a>.
